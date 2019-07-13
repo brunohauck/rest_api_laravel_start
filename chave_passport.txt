@@ -1,0 +1,28 @@
+Encryption keys generated successfully.
+Personal access client created successfully.
+Client ID: 1
+Client secret: mkNRdy0nd9UOajnuODluhTYXOA5cdAkxtrGPJtRL
+Password grant client created successfully.
+Client ID: 2
+Client secret: EJxYyHvGARix21VEnTAJsJq7mdSgwYePF7MnjT2B
+
+
+
+--------------------------------------
+
+Personal access client created successfully.
+Client ID: 1
+Client secret: 1wSlmEGgv1Bz23tIv13ov7sJ5I02nnlP6BLKVkbY
+Password grant client created successfully.
+Client ID: 2
+Client secret: 4psW8HNR6HJLkeiDk0102D5F20GiVgO9y9bpye75
+
+p060783@DESKTOP-83HQFEM MINGW64 /c/xampp/htdocs/api
+$ php artisan passport:install --force
+Encryption keys generated successfully.
+Personal access client created successfully.
+Client ID: 3
+Client secret: RUSG3a47MKn8lTkfd7HEpsovhSjtK3S4wxE81pph
+Password grant client created successfully.
+Client ID: 4
+Client secret: liKLGbMdzoa20DIlTEDfO5hiQqH3tjTi2hgOXd80
